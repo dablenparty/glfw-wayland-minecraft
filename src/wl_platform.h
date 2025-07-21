@@ -414,6 +414,9 @@ typedef struct _GLFWwindowWayland
         _GLFWfallbackEdgeWayland    top, left, right, bottom;
         struct wl_surface*          focus;
     } fallback;
+
+    double                          requestedCursorPosX, requestedCursorPosY;
+    GLFWbool                        didRequestSetCursorPos;
 } _GLFWwindowWayland;
 
 // Wayland-specific global data
