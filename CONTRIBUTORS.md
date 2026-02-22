@@ -79,6 +79,7 @@ video tutorials.
  - Jason Francis
  - Gerald Franz
  - Mário Freitas
+ - Friz64
  - GeO4d
  - Marcus Geelnard
  - Gegy
@@ -162,6 +163,7 @@ video tutorials.
  - Marcel Metz
  - Liam Middlebrook
  - mightgoyardstill
+ - Mihail
  - Ave Milia
  - Icyllis Milica
  - Jonathan Miller
